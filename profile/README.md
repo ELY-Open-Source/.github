@@ -79,41 +79,28 @@
 
 <br>
 
-## Install
-
-```sh
-# ELY Terminal on macOS
-brew install --cask ely-open-source/tap/elyterminal
-
-# Kigi on macOS or Linux
-curl -fsSL https://kigicli.dev/install.sh | bash
-
-# Kigi on Windows, in PowerShell
-irm https://kigicli.dev/install.ps1 | iex
-```
-
-<sub>Windows and Linux builds of the desktop apps are on each repository's Releases page.</sub>
-
-<br>
-
-<a href="https://github.com/orgs/ELY-Open-Source/repositories"><img src="https://raw.githubusercontent.com/ELY-Open-Source/.github/main/profile/assets/open-source.jpg" width="100%" alt="Open source: Rust, Go, GPUI, MyGo"></a>
-
-| Repository | What it is | Stack | Stars |
-|:--|:--|:--|--:|
-| [**ElyOffice**](https://github.com/ELY-Open-Source/ElyOffice) | Offline-first desktop office apps | Rust&nbsp;·&nbsp;GPUI | <!--stars:ELY-Open-Source/ElyOffice-->★&nbsp;1,649<!--/stars--> |
-| [**ELYTerminal**](https://github.com/ELY-Open-Source/ELYTerminal) | A terminal on GPUI and Ely | Rust&nbsp;·&nbsp;GPUI | <!--stars:ELY-Open-Source/ELYTerminal-->★&nbsp;460<!--/stars--> |
-| [**Ely-GPUI-Components**](https://github.com/ELY-Open-Source/Ely-GPUI-Components) | 1,272 GPUI components, live in the browser | Rust&nbsp;·&nbsp;Wasm | <!--stars:ELY-Open-Source/Ely-GPUI-Components-->★&nbsp;241<!--/stars--> |
-| [**CrychicUI**](https://github.com/ELY-Open-Source/CrychicUI) | 1,500 components in MyGo's own look | Go | <!--stars:ELY-Open-Source/CrychicUI-->★&nbsp;65<!--/stars--> |
-| [**MujicaUI**](https://github.com/ELY-Open-Source/MujicaUI) | Court-gothic components for MyGo | Go | <!--stars:ELY-Open-Source/MujicaUI-->★&nbsp;27<!--/stars--> |
-| [**8bitMyGoUI**](https://github.com/ELY-Open-Source/8bitMyGoUI) | 16-bit pixel-art components | Go | <!--stars:ELY-Open-Source/8bitMyGoUI-->★&nbsp;18<!--/stars--> |
-| [**ely-tea-party**](https://github.com/ELY-Open-Source/ely-tea-party) | A terminal where coding agents come to tea | Rust&nbsp;·&nbsp;GPUI | <!--stars:ELY-Open-Source/ely-tea-party-->★&nbsp;17<!--/stars--> |
-| [**Elysian**](https://github.com/ELY-Open-Source/Elysian) | Local memory for AI, scoped by who holds it | Python | <!--stars:ELY-Open-Source/Elysian-->★&nbsp;14<!--/stars--> |
-| [**Kigi-CLI**](https://github.com/ELY-Open-Source/Kigi-CLI) | Graph-planned multi-agent coding CLI | Rust | <!--stars:ELY-Open-Source/Kigi-CLI-->★&nbsp;11<!--/stars--> |
-| [**AgentCompany**](https://github.com/ELY-Open-Source/AgentCompany) | A company of AI agents on your desktop | TypeScript | <!--stars:ELY-Open-Source/AgentCompany-->★&nbsp;7<!--/stars--> |
-| [**OmaPhoto**](https://github.com/ELY-Open-Source/OmaPhoto) | Layered photo editor for Linux | C++&nbsp;·&nbsp;Qt | <!--stars:ELY-Open-Source/OmaPhoto-->★&nbsp;5<!--/stars--> |
-| [**Ely-GPUI-Showcases**](https://github.com/ELY-Open-Source/Ely-GPUI-Showcases) | Apps built with Ely GPUI, and how to add yours | JavaScript | <!--stars:ELY-Open-Source/Ely-GPUI-Showcases-->★&nbsp;1<!--/stars--> |
-| [**homebrew-tap**](https://github.com/ELY-Open-Source/homebrew-tap) | Homebrew casks for ELY apps | Ruby | |
-| [**gpui-pre-windows**](https://github.com/ELY-Open-Source/gpui-pre-windows)<br>[**gpui-pre-macos**](https://github.com/ELY-Open-Source/gpui-pre-macos)<br>[**gpui-pre-linux**](https://github.com/ELY-Open-Source/gpui-pre-linux) | gpui-pre 0.3.8 with ELY Terminal's platform fixes | Rust | |
+<table>
+  <thead>
+    <tr><td colspan="4"><a href="https://github.com/orgs/ELY-Open-Source/repositories"><img src="https://raw.githubusercontent.com/ELY-Open-Source/.github/main/profile/assets/open-source.jpg" width="100%" alt="Open source: Rust, Go, GPUI, MyGo"></a></td></tr>
+    <tr><th align="left">Repository</th><th align="left">What it is</th><th align="left">Stack</th><th align="right">Stars</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><a href="https://github.com/ELY-Open-Source/ElyOffice"><b>ElyOffice</b></a></td><td>Offline-first desktop office apps</td><td>Rust&nbsp;·&nbsp;GPUI</td><td align="right"><!--stars:ELY-Open-Source/ElyOffice-->★&nbsp;1,649<!--/stars--></td></tr>
+    <tr><td><a href="https://github.com/ELY-Open-Source/ELYTerminal"><b>ELYTerminal</b></a></td><td>A terminal on GPUI and Ely</td><td>Rust&nbsp;·&nbsp;GPUI</td><td align="right"><!--stars:ELY-Open-Source/ELYTerminal-->★&nbsp;460<!--/stars--></td></tr>
+    <tr><td><a href="https://github.com/ELY-Open-Source/Ely-GPUI-Components"><b>Ely-GPUI-Components</b></a></td><td>1,272 GPUI components, live in the browser</td><td>Rust&nbsp;·&nbsp;Wasm</td><td align="right"><!--stars:ELY-Open-Source/Ely-GPUI-Components-->★&nbsp;241<!--/stars--></td></tr>
+    <tr><td><a href="https://github.com/ELY-Open-Source/CrychicUI"><b>CrychicUI</b></a></td><td>1,500 components in MyGo's own look</td><td>Go</td><td align="right"><!--stars:ELY-Open-Source/CrychicUI-->★&nbsp;65<!--/stars--></td></tr>
+    <tr><td><a href="https://github.com/ELY-Open-Source/MujicaUI"><b>MujicaUI</b></a></td><td>Court-gothic components for MyGo</td><td>Go</td><td align="right"><!--stars:ELY-Open-Source/MujicaUI-->★&nbsp;27<!--/stars--></td></tr>
+    <tr><td><a href="https://github.com/ELY-Open-Source/8bitMyGoUI"><b>8bitMyGoUI</b></a></td><td>16-bit pixel-art components</td><td>Go</td><td align="right"><!--stars:ELY-Open-Source/8bitMyGoUI-->★&nbsp;18<!--/stars--></td></tr>
+    <tr><td><a href="https://github.com/ELY-Open-Source/ely-tea-party"><b>ely-tea-party</b></a></td><td>A terminal where coding agents come to tea</td><td>Rust&nbsp;·&nbsp;GPUI</td><td align="right"><!--stars:ELY-Open-Source/ely-tea-party-->★&nbsp;17<!--/stars--></td></tr>
+    <tr><td><a href="https://github.com/ELY-Open-Source/Elysian"><b>Elysian</b></a></td><td>Local memory for AI, scoped by who holds it</td><td>Python</td><td align="right"><!--stars:ELY-Open-Source/Elysian-->★&nbsp;14<!--/stars--></td></tr>
+    <tr><td><a href="https://github.com/ELY-Open-Source/Kigi-CLI"><b>Kigi-CLI</b></a></td><td>Graph-planned multi-agent coding CLI</td><td>Rust</td><td align="right"><!--stars:ELY-Open-Source/Kigi-CLI-->★&nbsp;11<!--/stars--></td></tr>
+    <tr><td><a href="https://github.com/ELY-Open-Source/AgentCompany"><b>AgentCompany</b></a></td><td>A company of AI agents on your desktop</td><td>TypeScript</td><td align="right"><!--stars:ELY-Open-Source/AgentCompany-->★&nbsp;7<!--/stars--></td></tr>
+    <tr><td><a href="https://github.com/ELY-Open-Source/OmaPhoto"><b>OmaPhoto</b></a></td><td>Layered photo editor for Linux</td><td>C++&nbsp;·&nbsp;Qt</td><td align="right"><!--stars:ELY-Open-Source/OmaPhoto-->★&nbsp;5<!--/stars--></td></tr>
+    <tr><td><a href="https://github.com/ELY-Open-Source/Ely-GPUI-Showcases"><b>Ely-GPUI-Showcases</b></a></td><td>Apps built with Ely GPUI, and how to add yours</td><td>JavaScript</td><td align="right"><!--stars:ELY-Open-Source/Ely-GPUI-Showcases-->★&nbsp;1<!--/stars--></td></tr>
+    <tr><td><a href="https://github.com/ELY-Open-Source/homebrew-tap"><b>homebrew-tap</b></a></td><td>Homebrew casks for ELY apps</td><td>Ruby</td><td align="right"></td></tr>
+    <tr><td><a href="https://github.com/ELY-Open-Source/gpui-pre-windows"><b>gpui-pre-windows</b></a><br><a href="https://github.com/ELY-Open-Source/gpui-pre-macos"><b>gpui-pre-macos</b></a><br><a href="https://github.com/ELY-Open-Source/gpui-pre-linux"><b>gpui-pre-linux</b></a></td><td>gpui-pre 0.3.8 with ELY Terminal's platform fixes</td><td>Rust</td><td align="right"></td></tr>
+  </tbody>
+</table>
 
 <br>
 
