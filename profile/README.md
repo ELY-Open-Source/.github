@@ -22,13 +22,13 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/ELY-Open-Source/ElyOffice"><img src="https://raw.githubusercontent.com/ELY-Open-Source/.github/main/profile/assets/elyoffice.jpg" width="100%" alt="Ely Office"></a>
-      <br><b>Ely Office</b> &nbsp;<sub><code>Rust · GPUI</code> &nbsp;<!--stars:ELY-Open-Source/ElyOffice-->★&nbsp;1,678<!--/stars--></sub>
+      <br><b>Ely Office</b> &nbsp;<sub><code>Rust · GPUI</code> &nbsp;<!--stars:ELY-Open-Source/ElyOffice-->★&nbsp;1,691<!--/stars--></sub>
       <br><sub>Six offline desktop apps: documents, sheets, slides, PDF, Git, and Markdown. Opens Office files. No account, no cloud.</sub>
       <br><sub><a href="https://office.elygpui.com">office.elygpui.com</a> · <a href="https://github.com/ELY-Open-Source/ElyOffice/releases/latest">download</a> · <a href="https://github.com/ELY-Open-Source/ElyOffice">source</a></sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/ELY-Open-Source/ELYTerminal"><img src="https://raw.githubusercontent.com/ELY-Open-Source/.github/main/profile/assets/ely-terminal.jpg" width="100%" alt="ELY Terminal"></a>
-      <br><b>ELY Terminal</b> &nbsp;<sub><code>Rust · GPUI</code> &nbsp;<!--stars:ELY-Open-Source/ELYTerminal-->★&nbsp;465<!--/stars--></sub>
+      <br><b>ELY Terminal</b> &nbsp;<sub><code>Rust · GPUI</code> &nbsp;<!--stars:ELY-Open-Source/ELYTerminal-->★&nbsp;468<!--/stars--></sub>
       <br><sub>A terminal for macOS, Windows, and Linux. Sessions on the left, the terminal in the middle, Git or Files on the right.</sub>
       <br><sub><a href="https://github.com/ELY-Open-Source/ELYTerminal/releases/latest">download</a> · <a href="https://github.com/ELY-Open-Source/ELYTerminal">source</a></sub>
     </td>
@@ -85,8 +85,8 @@
     <tr><th align="left">Repository</th><th align="left">What it is</th><th align="left">Stack</th><th align="right">Stars</th></tr>
   </thead>
   <tbody>
-    <tr><td><a href="https://github.com/ELY-Open-Source/ElyOffice"><b>ElyOffice</b></a></td><td>Offline-first desktop office apps</td><td>Rust&nbsp;·&nbsp;GPUI</td><td align="right"><!--stars:ELY-Open-Source/ElyOffice-->★&nbsp;1,678<!--/stars--></td></tr>
-    <tr><td><a href="https://github.com/ELY-Open-Source/ELYTerminal"><b>ELYTerminal</b></a></td><td>A terminal on GPUI and Ely</td><td>Rust&nbsp;·&nbsp;GPUI</td><td align="right"><!--stars:ELY-Open-Source/ELYTerminal-->★&nbsp;465<!--/stars--></td></tr>
+    <tr><td><a href="https://github.com/ELY-Open-Source/ElyOffice"><b>ElyOffice</b></a></td><td>Offline-first desktop office apps</td><td>Rust&nbsp;·&nbsp;GPUI</td><td align="right"><!--stars:ELY-Open-Source/ElyOffice-->★&nbsp;1,691<!--/stars--></td></tr>
+    <tr><td><a href="https://github.com/ELY-Open-Source/ELYTerminal"><b>ELYTerminal</b></a></td><td>A terminal on GPUI and Ely</td><td>Rust&nbsp;·&nbsp;GPUI</td><td align="right"><!--stars:ELY-Open-Source/ELYTerminal-->★&nbsp;468<!--/stars--></td></tr>
     <tr><td><a href="https://github.com/ELY-Open-Source/Ely-GPUI-Components"><b>Ely-GPUI-Components</b></a></td><td>1,272 GPUI components, live in the browser</td><td>Rust&nbsp;·&nbsp;Wasm</td><td align="right"><!--stars:ELY-Open-Source/Ely-GPUI-Components-->★&nbsp;244<!--/stars--></td></tr>
     <tr><td><a href="https://github.com/ELY-Open-Source/CrychicUI"><b>CrychicUI</b></a></td><td>1,500 components in MyGo's own look</td><td>Go</td><td align="right"><!--stars:ELY-Open-Source/CrychicUI-->★&nbsp;66<!--/stars--></td></tr>
     <tr><td><a href="https://github.com/ELY-Open-Source/MujicaUI"><b>MujicaUI</b></a></td><td>Court-gothic components for MyGo</td><td>Go</td><td align="right"><!--stars:ELY-Open-Source/MujicaUI-->★&nbsp;27<!--/stars--></td></tr>
