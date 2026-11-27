@@ -22,7 +22,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/ELY-Open-Source/ElyOffice"><img src="https://raw.githubusercontent.com/ELY-Open-Source/.github/main/profile/assets/elyoffice.jpg" width="100%" alt="Ely Office"></a>
-      <br><b>Ely Office</b> &nbsp;<sub><code>Rust · GPUI</code> &nbsp;<!--stars:ELY-Open-Source/ElyOffice-->★&nbsp;1,709<!--/stars--></sub>
+      <br><b>Ely Office</b> &nbsp;<sub><code>Rust · GPUI</code> &nbsp;<!--stars:ELY-Open-Source/ElyOffice-->★&nbsp;1,711<!--/stars--></sub>
       <br><sub>Six offline desktop apps: documents, sheets, slides, PDF, Git, and Markdown. Opens Office files. No account, no cloud.</sub>
       <br><sub><a href="https://office.elygpui.com">office.elygpui.com</a> · <a href="https://github.com/ELY-Open-Source/ElyOffice/releases/latest">download</a> · <a href="https://github.com/ELY-Open-Source/ElyOffice">source</a></sub>
     </td>
@@ -36,7 +36,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/ELY-Open-Source/Ely-GPUI-Components"><img src="https://raw.githubusercontent.com/ELY-Open-Source/.github/main/profile/assets/elygpui.jpg" width="100%" alt="Ely GPUI"></a>
-      <br><b>Ely GPUI</b> &nbsp;<sub><code>Rust · Wasm</code> &nbsp;<!--stars:ELY-Open-Source/Ely-GPUI-Components-->★&nbsp;247<!--/stars--></sub>
+      <br><b>Ely GPUI</b> &nbsp;<sub><code>Rust · Wasm</code> &nbsp;<!--stars:ELY-Open-Source/Ely-GPUI-Components-->★&nbsp;251<!--/stars--></sub>
       <br><sub>1,272 components for GPUI, the Rust framework behind Zed. Light and dark, and every one runs live in the browser.</sub>
       <br><sub><a href="https://elygpui.com">elygpui.com</a> · <a href="https://github.com/ELY-Open-Source/Ely-GPUI-Showcases">showcases</a> · <a href="https://github.com/ELY-Open-Source/Ely-GPUI-Components">source</a></sub>
     </td>
@@ -56,7 +56,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/ELY-Open-Source/AgentCompany"><img src="https://raw.githubusercontent.com/ELY-Open-Source/.github/main/profile/assets/agent-company.jpg" width="100%" alt="Agent Company"></a>
-      <br><b>Agent Company</b> &nbsp;<sub><code>Electron</code> &nbsp;<!--stars:ELY-Open-Source/AgentCompany-->★&nbsp;7<!--/stars--></sub>
+      <br><b>Agent Company</b> &nbsp;<sub><code>Electron</code> &nbsp;<!--stars:ELY-Open-Source/AgentCompany-->★&nbsp;8<!--/stars--></sub>
       <br><sub>A desktop company of AI agents. Set a goal; a CEO agent builds departments, delegates, and reports back from a pixel office.</sub>
       <br><sub><a href="https://agent-company.dev">agent-company.dev</a> · <a href="https://github.com/ELY-Open-Source/AgentCompany/releases/latest">download</a> · <a href="https://github.com/ELY-Open-Source/AgentCompany">source</a></sub>
     </td>
@@ -85,16 +85,16 @@
     <tr><th align="left">Repository</th><th align="left">What it is</th><th align="left">Stack</th><th align="right">Stars</th></tr>
   </thead>
   <tbody>
-    <tr><td><a href="https://github.com/ELY-Open-Source/ElyOffice"><b>ElyOffice</b></a></td><td>Offline-first desktop office apps</td><td>Rust&nbsp;·&nbsp;GPUI</td><td align="right"><!--stars:ELY-Open-Source/ElyOffice-->★&nbsp;1,709<!--/stars--></td></tr>
+    <tr><td><a href="https://github.com/ELY-Open-Source/ElyOffice"><b>ElyOffice</b></a></td><td>Offline-first desktop office apps</td><td>Rust&nbsp;·&nbsp;GPUI</td><td align="right"><!--stars:ELY-Open-Source/ElyOffice-->★&nbsp;1,711<!--/stars--></td></tr>
     <tr><td><a href="https://github.com/ELY-Open-Source/ELYTerminal"><b>ELYTerminal</b></a></td><td>A terminal on GPUI and Ely</td><td>Rust&nbsp;·&nbsp;GPUI</td><td align="right"><!--stars:ELY-Open-Source/ELYTerminal-->★&nbsp;476<!--/stars--></td></tr>
-    <tr><td><a href="https://github.com/ELY-Open-Source/Ely-GPUI-Components"><b>Ely-GPUI-Components</b></a></td><td>1,272 GPUI components, live in the browser</td><td>Rust&nbsp;·&nbsp;Wasm</td><td align="right"><!--stars:ELY-Open-Source/Ely-GPUI-Components-->★&nbsp;247<!--/stars--></td></tr>
+    <tr><td><a href="https://github.com/ELY-Open-Source/Ely-GPUI-Components"><b>Ely-GPUI-Components</b></a></td><td>1,272 GPUI components, live in the browser</td><td>Rust&nbsp;·&nbsp;Wasm</td><td align="right"><!--stars:ELY-Open-Source/Ely-GPUI-Components-->★&nbsp;251<!--/stars--></td></tr>
     <tr><td><a href="https://github.com/ELY-Open-Source/CrychicUI"><b>CrychicUI</b></a></td><td>1,500 components in MyGo's own look</td><td>Go</td><td align="right"><!--stars:ELY-Open-Source/CrychicUI-->★&nbsp;66<!--/stars--></td></tr>
     <tr><td><a href="https://github.com/ELY-Open-Source/MujicaUI"><b>MujicaUI</b></a></td><td>Court-gothic components for MyGo</td><td>Go</td><td align="right"><!--stars:ELY-Open-Source/MujicaUI-->★&nbsp;27<!--/stars--></td></tr>
     <tr><td><a href="https://github.com/ELY-Open-Source/8bitMyGoUI"><b>8bitMyGoUI</b></a></td><td>16-bit pixel-art components</td><td>Go</td><td align="right"><!--stars:ELY-Open-Source/8bitMyGoUI-->★&nbsp;18<!--/stars--></td></tr>
     <tr><td><a href="https://github.com/ELY-Open-Source/ely-tea-party"><b>ely-tea-party</b></a></td><td>A terminal where coding agents come to tea</td><td>Rust&nbsp;·&nbsp;GPUI</td><td align="right"><!--stars:ELY-Open-Source/ely-tea-party-->★&nbsp;17<!--/stars--></td></tr>
     <tr><td><a href="https://github.com/ELY-Open-Source/Elysian"><b>Elysian</b></a></td><td>Local memory for AI, scoped by who holds it</td><td>Python</td><td align="right"><!--stars:ELY-Open-Source/Elysian-->★&nbsp;14<!--/stars--></td></tr>
     <tr><td><a href="https://github.com/ELY-Open-Source/Kigi-CLI"><b>Kigi-CLI</b></a></td><td>Graph-planned multi-agent coding CLI</td><td>Rust</td><td align="right"><!--stars:ELY-Open-Source/Kigi-CLI-->★&nbsp;12<!--/stars--></td></tr>
-    <tr><td><a href="https://github.com/ELY-Open-Source/AgentCompany"><b>AgentCompany</b></a></td><td>A company of AI agents on your desktop</td><td>TypeScript</td><td align="right"><!--stars:ELY-Open-Source/AgentCompany-->★&nbsp;7<!--/stars--></td></tr>
+    <tr><td><a href="https://github.com/ELY-Open-Source/AgentCompany"><b>AgentCompany</b></a></td><td>A company of AI agents on your desktop</td><td>TypeScript</td><td align="right"><!--stars:ELY-Open-Source/AgentCompany-->★&nbsp;8<!--/stars--></td></tr>
     <tr><td><a href="https://github.com/ELY-Open-Source/OmaPhoto"><b>OmaPhoto</b></a></td><td>Layered photo editor for Linux</td><td>C++&nbsp;·&nbsp;Qt</td><td align="right"><!--stars:ELY-Open-Source/OmaPhoto-->★&nbsp;5<!--/stars--></td></tr>
     <tr><td><a href="https://github.com/ELY-Open-Source/Ely-GPUI-Showcases"><b>Ely-GPUI-Showcases</b></a></td><td>Apps built with Ely GPUI, and how to add yours</td><td>JavaScript</td><td align="right"><!--stars:ELY-Open-Source/Ely-GPUI-Showcases-->★&nbsp;1<!--/stars--></td></tr>
     <tr><td><a href="https://github.com/ELY-Open-Source/homebrew-tap"><b>homebrew-tap</b></a></td><td>Homebrew casks for ELY apps</td><td>Ruby</td><td align="right"></td></tr>
