@@ -22,13 +22,13 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/ELY-Open-Source/ElyOffice"><img src="https://raw.githubusercontent.com/ELY-Open-Source/.github/main/profile/assets/elyoffice.jpg" width="100%" alt="Ely Office"></a>
-      <br><b>Ely Office</b> &nbsp;<sub><code>Rust · GPUI</code> &nbsp;<!--stars:ELY-Open-Source/ElyOffice-->★&nbsp;1,722<!--/stars--></sub>
+      <br><b>Ely Office</b> &nbsp;<sub><code>Rust · GPUI</code> &nbsp;<!--stars:ELY-Open-Source/ElyOffice-->★&nbsp;1,735<!--/stars--></sub>
       <br><sub>Six offline desktop apps: documents, sheets, slides, PDF, Git, and Markdown. Opens Office files. No account, no cloud.</sub>
       <br><sub><a href="https://office.elygpui.com">office.elygpui.com</a> · <a href="https://github.com/ELY-Open-Source/ElyOffice/releases/latest">download</a> · <a href="https://github.com/ELY-Open-Source/ElyOffice">source</a></sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/ELY-Open-Source/ELYTerminal"><img src="https://raw.githubusercontent.com/ELY-Open-Source/.github/main/profile/assets/ely-terminal.jpg" width="100%" alt="ELY Terminal"></a>
-      <br><b>ELY Terminal</b> &nbsp;<sub><code>Rust · GPUI</code> &nbsp;<!--stars:ELY-Open-Source/ELYTerminal-->★&nbsp;480<!--/stars--></sub>
+      <br><b>ELY Terminal</b> &nbsp;<sub><code>Rust · GPUI</code> &nbsp;<!--stars:ELY-Open-Source/ELYTerminal-->★&nbsp;485<!--/stars--></sub>
       <br><sub>A terminal for macOS, Windows, and Linux. Sessions on the left, the terminal in the middle, Git or Files on the right.</sub>
       <br><sub><a href="https://github.com/ELY-Open-Source/ELYTerminal/releases/latest">download</a> · <a href="https://github.com/ELY-Open-Source/ELYTerminal">source</a></sub>
     </td>
@@ -36,7 +36,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/ELY-Open-Source/Ely-GPUI-Components"><img src="https://raw.githubusercontent.com/ELY-Open-Source/.github/main/profile/assets/elygpui.jpg" width="100%" alt="Ely GPUI"></a>
-      <br><b>Ely GPUI</b> &nbsp;<sub><code>Rust · Wasm</code> &nbsp;<!--stars:ELY-Open-Source/Ely-GPUI-Components-->★&nbsp;251<!--/stars--></sub>
+      <br><b>Ely GPUI</b> &nbsp;<sub><code>Rust · Wasm</code> &nbsp;<!--stars:ELY-Open-Source/Ely-GPUI-Components-->★&nbsp;252<!--/stars--></sub>
       <br><sub>1,272 components for GPUI, the Rust framework behind Zed. Light and dark, and every one runs live in the browser.</sub>
       <br><sub><a href="https://elygpui.com">elygpui.com</a> · <a href="https://github.com/ELY-Open-Source/Ely-GPUI-Showcases">showcases</a> · <a href="https://github.com/ELY-Open-Source/Ely-GPUI-Components">source</a></sub>
     </td>
@@ -66,7 +66,7 @@
       <a href="https://github.com/orgs/ELY-Open-Source/repositories?language=go"><img src="https://raw.githubusercontent.com/ELY-Open-Source/.github/main/profile/assets/mygo-ui.jpg" width="100%" alt="MyGo UI"></a>
       <br><b>MyGo UI</b> &nbsp;<sub><code>Go · Wasm</code></sub>
       <br><sub>Three component sets for MyGo native Go UI: court-gothic Mujica, 1,500-piece Crychic, and 16-bit pixel 8bit.</sub>
-      <br><sub><a href="https://github.com/ELY-Open-Source/MujicaUI">Mujica</a> <!--stars:ELY-Open-Source/MujicaUI-->★&nbsp;27<!--/stars--> · <a href="https://github.com/ELY-Open-Source/CrychicUI">Crychic</a> <!--stars:ELY-Open-Source/CrychicUI-->★&nbsp;66<!--/stars--> · <a href="https://github.com/ELY-Open-Source/8bitMyGoUI">8bit</a> <!--stars:ELY-Open-Source/8bitMyGoUI-->★&nbsp;18<!--/stars--></sub>
+      <br><sub><a href="https://github.com/ELY-Open-Source/MujicaUI">Mujica</a> <!--stars:ELY-Open-Source/MujicaUI-->★&nbsp;27<!--/stars--> · <a href="https://github.com/ELY-Open-Source/CrychicUI">Crychic</a> <!--stars:ELY-Open-Source/CrychicUI-->★&nbsp;67<!--/stars--> · <a href="https://github.com/ELY-Open-Source/8bitMyGoUI">8bit</a> <!--stars:ELY-Open-Source/8bitMyGoUI-->★&nbsp;18<!--/stars--></sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/ELY-Open-Source/Elysian"><img src="https://raw.githubusercontent.com/ELY-Open-Source/.github/main/profile/assets/elysian.jpg" width="100%" alt="Elysian"></a>
@@ -85,10 +85,10 @@
     <tr><th align="left">Repository</th><th align="left">What it is</th><th align="left">Stack</th><th align="right">Stars</th></tr>
   </thead>
   <tbody>
-    <tr><td><a href="https://github.com/ELY-Open-Source/ElyOffice"><b>ElyOffice</b></a></td><td>Offline-first desktop office apps</td><td>Rust&nbsp;·&nbsp;GPUI</td><td align="right"><!--stars:ELY-Open-Source/ElyOffice-->★&nbsp;1,722<!--/stars--></td></tr>
-    <tr><td><a href="https://github.com/ELY-Open-Source/ELYTerminal"><b>ELYTerminal</b></a></td><td>A terminal on GPUI and Ely</td><td>Rust&nbsp;·&nbsp;GPUI</td><td align="right"><!--stars:ELY-Open-Source/ELYTerminal-->★&nbsp;480<!--/stars--></td></tr>
-    <tr><td><a href="https://github.com/ELY-Open-Source/Ely-GPUI-Components"><b>Ely-GPUI-Components</b></a></td><td>1,272 GPUI components, live in the browser</td><td>Rust&nbsp;·&nbsp;Wasm</td><td align="right"><!--stars:ELY-Open-Source/Ely-GPUI-Components-->★&nbsp;251<!--/stars--></td></tr>
-    <tr><td><a href="https://github.com/ELY-Open-Source/CrychicUI"><b>CrychicUI</b></a></td><td>1,500 components in MyGo's own look</td><td>Go</td><td align="right"><!--stars:ELY-Open-Source/CrychicUI-->★&nbsp;66<!--/stars--></td></tr>
+    <tr><td><a href="https://github.com/ELY-Open-Source/ElyOffice"><b>ElyOffice</b></a></td><td>Offline-first desktop office apps</td><td>Rust&nbsp;·&nbsp;GPUI</td><td align="right"><!--stars:ELY-Open-Source/ElyOffice-->★&nbsp;1,735<!--/stars--></td></tr>
+    <tr><td><a href="https://github.com/ELY-Open-Source/ELYTerminal"><b>ELYTerminal</b></a></td><td>A terminal on GPUI and Ely</td><td>Rust&nbsp;·&nbsp;GPUI</td><td align="right"><!--stars:ELY-Open-Source/ELYTerminal-->★&nbsp;485<!--/stars--></td></tr>
+    <tr><td><a href="https://github.com/ELY-Open-Source/Ely-GPUI-Components"><b>Ely-GPUI-Components</b></a></td><td>1,272 GPUI components, live in the browser</td><td>Rust&nbsp;·&nbsp;Wasm</td><td align="right"><!--stars:ELY-Open-Source/Ely-GPUI-Components-->★&nbsp;252<!--/stars--></td></tr>
+    <tr><td><a href="https://github.com/ELY-Open-Source/CrychicUI"><b>CrychicUI</b></a></td><td>1,500 components in MyGo's own look</td><td>Go</td><td align="right"><!--stars:ELY-Open-Source/CrychicUI-->★&nbsp;67<!--/stars--></td></tr>
     <tr><td><a href="https://github.com/ELY-Open-Source/MujicaUI"><b>MujicaUI</b></a></td><td>Court-gothic components for MyGo</td><td>Go</td><td align="right"><!--stars:ELY-Open-Source/MujicaUI-->★&nbsp;27<!--/stars--></td></tr>
     <tr><td><a href="https://github.com/ELY-Open-Source/8bitMyGoUI"><b>8bitMyGoUI</b></a></td><td>16-bit pixel-art components</td><td>Go</td><td align="right"><!--stars:ELY-Open-Source/8bitMyGoUI-->★&nbsp;18<!--/stars--></td></tr>
     <tr><td><a href="https://github.com/ELY-Open-Source/ely-tea-party"><b>ely-tea-party</b></a></td><td>A terminal where coding agents come to tea</td><td>Rust&nbsp;·&nbsp;GPUI</td><td align="right"><!--stars:ELY-Open-Source/ely-tea-party-->★&nbsp;17<!--/stars--></td></tr>
